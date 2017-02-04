@@ -52,7 +52,7 @@ CMPのレポート課題の再帰・フラクタル 2016/06/01
 
 #### 12.eye_rect
 小学校の時の葉っぱ型の図形問題のフラクタル  
-![](https://github.com/wmrn/Fractal-Pitagora/blob/master/data/eyerect.png)  
+![](https://github.com/wmrn/Fractal-Pitagora/blob/master/data/eye_rect.png)  
 
 #### 13.leaf
 eyerectの四角の部分をなくした。これも空気遠近法つかってみた。こっちのGif滑らかでとても良い。  
